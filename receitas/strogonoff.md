@@ -1,10 +1,13 @@
-#Strogonoff de frango
-###ingredientes
+# Strogonoff de Frango :chicken:
+
+### ingredientes
+
  - 1
  - 2
  - 3
 
-##modo de preparo
+### modo de preparo
+
  - A
  - B
  - C
